@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme 
 title: Murat Öztürk's Progress Journal
 description: This journal is created for IE 360.
+
+theme: jekyll-theme-slate
