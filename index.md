@@ -1,7 +1,7 @@
 ## Welcome to My Github Page
 
 ### Homework 1
-[Hw](files/Assignment_1.html) is not fully completed.
+[Hw1](files/Assignment1/Assignment_1.html) is completed :) 
 ### Homework 2
 
 ### Homework 3
